@@ -1,4 +1,10 @@
-# Hi there! 👋 I'm Moeun Kimlong
+<div align="center">
+  <img src="https://github.com/Jinlong77.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #7F52FF;" alt="Moeun Kimlong" />
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=Hi+there!+👋+I'm+Moeun+Kimlong;Full-Stack+Developer;Mobile+%26+Web+Enthusiast" alt="Typing SVG" />
+  </h1>
+</div>
 
 ## 🚀 Full-Stack Developer | Mobile & Web Enthusiast
 
